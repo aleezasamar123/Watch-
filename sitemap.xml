@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<timevibe>
+    
+    <brand>
+        <name>Time Vibe</name>
+        <type>Luxury Ladies Watches</type>
+    </brand>
+
+    <navigation>
+        <menu>Home</menu>
+        <menu>Shop</menu>
+        <menu>Collections</menu>
+        <menu>About</menu>
+        <menu>Contact</menu>
+    </navigation>
+
+    <home>
+        <hero>
+            <title>Timeless Elegance On Your Wrist</title>
+            <description>
+                Luxury ladies watches with Swiss precision and feminine grace.
+            </description>
+        </hero>
+
+        <stats>
+            <clients>30000+</clients>
+            <models>150+</models>
+            <rating>4.9</rating>
+        </stats>
+
+        <featured>
+            <product>
+                <name>Golden Hour</name>
+                <price currency="USD">295</price>
+                <category>Signature</category>
+            </product>
+        </featured>
+    </home>
+
+    <shop>
+        <categories>
+            <category>All</category>
+            <category>Dress</category>
+            <category>Minimalist</category>
+            <category>Sport Luxe</category>
+            <category>Luxury</category>
+            <category>Vintage</category>
+        </categories>
+
+        <products>
+            <product id="1">
+                <name>Golden Hour</name>
+                <price>295</price>
+                <rating>5</rating>
+                <reviews>128</reviews>
+
+                <specifications>
+                    <movement>Swiss Quartz</movement>
+                    <case>36mm</case>
+                    <water_resistance>50m</water_resistance>
+                    <material>316L Steel</material>
+                </specifications>
+            </product>
+        </products>
+    </shop>
+
+    <cart>
+        <items>0</items>
+        <subtotal>0</subtotal>
+        <shipping>Free</shipping>
+        <total>0</total>
+    </cart>
+
+    <wishlist>
+        <items>0</items>
+    </wishlist>
+
+    <policies>
+        <shipping>Free worldwide shipping</shipping>
+        <returns>30 days return</returns>
+        <warranty>2 years warranty</warranty>
+    </policies>
+
+</timevibe>
